@@ -15,7 +15,7 @@ concurrency:
 
 jobs:
   lint:
-    uses: madagascar-oss/.github/.github/workflows/reusable-lint.yml@main
+    uses: mdgascar/.github/.github/workflows/reusable-lint.yml@main
 
   # Add project-specific build/test jobs here, e.g.:
   # test:
