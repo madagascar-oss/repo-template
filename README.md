@@ -10,7 +10,7 @@ Short description of the project.
 
 ## Contributing
 
-See the organization [contributing guide](https://github.com/madagascar-oss/.github/blob/main/CONTRIBUTING.md).
+See the organization [contributing guide](https://github.com/mdgascar/.github/blob/main/CONTRIBUTING.md).
 
 ## License
 
